@@ -9,11 +9,14 @@
   </p>
 </div>
 
+## About Me
+Welcome to my GitHub profile! I am a highly motivated and results-oriented data analyst with expertise in data analysis, business strategy development, and stakeholder management. I am passionate about leveraging data-driven insights to help businesses achieve their goals and optimize performance.
+I have a strong background in business strategy. My skills include data analysis and visualization, statistical analysis and modeling, advanced Excel and SQL, data mining and cleansing, Python and R programming, Tableau and Power BI, project management, as well as communication and presentation skills. With these skills, I bring a unique perspective to drive growth and deliver actionable insights.
+
 ## Education
-- **BE, Electronics and Communications**  
-  Anna University, India  
-  GPA: 7.1/10  
-  August 2016-August 2020
+- **Data Analytics for Buniness Decision Making**  
+  Durham College, Canada  
+  January 2023 - August 2023  
 
 ## Key Skills
 - Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
@@ -23,19 +26,19 @@
 
 - Version Control Tools: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original-wordmark.svg" width="45" height="45" />
 
-## Professional Experience
-### Automation Test Engineer at Tata Consultancy Services
-- September 2020 - October 2022
-- Analyzed Business Requirements Documents to gain a better understanding of the system from technical and business perspectives
-- 1 year of hands-on experience in Manual testing and 5 months of experience in automation testing, including web app and API testing
-- Worked in an agile environment with frequently changing requirements and features set
-- Prepared Test Plans, Test Scripts, and Test Cases based on functional specifications and user requirements
-- Maintained automated regression test cases in Selenium WebDriver using Python programming language
 
-### Robotics Engineering Intern at Lema Labs
+## Professional Experience
+### Data-Driven Sales Forecasting at Tata Consultancy Services
+- September 2020 - October 2022
+- Developed a predictive model using Python and machine learning algorithms to forecast sales.
+- Analyzed historical data, market trends, and external factors to improve accuracy and reliability.
+- Created interactive visualizations using Tableau to present sales forecasts to the sales team.
+
+### Customer Segmentation and Personalization at Lema Labs
 - December 2017-January 2018
-- Created home automation using IoT technology and Adafruit
-- Built autonomous robots such as tabletop robot, obstacle detection, and pothole detection robots
+- Conducted customer segmentation analysis using clustering algorithms and customer behavior data.
+- Developed targeted marketing campaigns based on customer preferences and behaviors.
+- Monitored campaign performance and analyzed customer response to optimize personalization efforts.
 
 ## Project Experience
 ### Credit Card Fraud Classification
