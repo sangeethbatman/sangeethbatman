@@ -53,16 +53,18 @@ By leveraging my expertise in data analysis, strategic planning, and stakeholder
 
 ## Professional Experience
 ### Data-Driven Sales Forecasting at Tata Consultancy Services
-- September 2020 - October 2022
+- September 2021 - October 2022
 - Developed a predictive model using Python and machine learning algorithms to forecast sales.
 - Analyzed historical data, market trends, and external factors to improve accuracy and reliability.
 - Created interactive visualizations using Tableau to present sales forecasts to the sales team.
+- Technologies: Python, Pandas, Numpy, Tableau, Scikit learn
 
-### Customer Segmentation and Personalization at Lema Labs
-- December 2017-January 2018
+### Customer Segmentation and Personalization at Tata Consultancy Services
+- September 2020-January 2021
 - Conducted customer segmentation analysis using clustering algorithms and customer behavior data.
 - Developed targeted marketing campaigns based on customer preferences and behaviors.
 - Monitored campaign performance and analyzed customer response to optimize personalization efforts.
+- Technologies: Python, Pandas, Scikit learn, Tensorflow
 
 ## Project Experience
 ### Credit Card Fraud Classification
