@@ -13,6 +13,30 @@
 Welcome to my GitHub profile! I am a highly motivated and results-oriented data analyst with expertise in data analysis, business strategy development, and stakeholder management. I am passionate about leveraging data-driven insights to help businesses achieve their goals and optimize performance.
 I have a strong background in business strategy. My skills include data analysis and visualization, statistical analysis and modeling, advanced Excel and SQL, data mining and cleansing, Python and R programming, Tableau and Power BI, project management, as well as communication and presentation skills. With these skills, I bring a unique perspective to drive growth and deliver actionable insights.
 
+## Where Companies are Today with Data/Business/Strategy
+
+In today's fast-paced business landscape, companies are inundated with vast amounts of data but often struggle to extract actionable insights. Many organizations face challenges such as:
+
+- **Data Overload**: Companies have access to extensive data but struggle to make sense of it all, leading to missed opportunities and inefficient decision-making.
+
+- **Lack of Data Strategy**: Organizations often lack a cohesive data strategy, resulting in siloed data and missed opportunities for cross-functional collaboration and innovation.
+
+- **Limited Data Literacy**: While data is abundant, not all employees possess the necessary data literacy skills to harness its full potential, hindering data-driven decision-making at all levels.
+
+## How I Can Help Companies as a Data Analyst
+
+As a skilled data analyst and business strategist, I can play a pivotal role in helping companies bridge the gap between their current state and future aspirations. Here's how I can contribute:
+
+- **Data Analysis and Insights**: I can conduct comprehensive data analysis to uncover meaningful insights, identify trends, and provide actionable recommendations, enabling companies to make data-driven decisions.
+
+- **Data Strategy Development**: I can collaborate with organizations to develop robust data strategies that align with their business objectives, facilitate cross-functional data integration, and enable a data-driven culture.
+
+- **Data Literacy and Training**: I can provide data literacy training to employees at all levels, empowering them to effectively analyze and interpret data, fostering a data-driven mindset throughout the organization.
+
+- **Business Strategy Alignment**: I can align data-driven strategies with broader business objectives, ensuring that data insights are integrated into strategic planning and execution, driving growth and competitive advantage.
+
+By leveraging my expertise in data analysis, strategic planning, and stakeholder management, I can help companies harness the power of data, optimize their business strategies, and achieve their future vision of becoming data-driven organizations.
+
 ## Education
 - **Data Analytics for Buniness Decision Making**  
   Durham College, Canada  
