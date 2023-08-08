@@ -82,6 +82,7 @@ By leveraging my expertise in data analysis, strategic planning, and stakeholder
 - Developed a TODO web app using Python and Flask framework to track daily routines
 - Deployed the app on Firebase cloud
 
+ 
 ## Achievements
 - Finalist of Smart India Hackathon (the world's largest hackathon) in the software edition for two consecutive years (2017 and 2018)
 
@@ -91,3 +92,6 @@ By leveraging my expertise in data analysis, strategic planning, and stakeholder
 - Python Certification from HackerRank
 - Attended a workshop on Machine Learning conducted by Lema Labs at IITM Research Park, gaining basic knowledge in Machine Learning
 - Attended a workshop on Internet of Things conducted by Innovians Technologies, acquiring in-depth knowledge of IoT terminologies and functionalities
+
+  ![image](https://github.com/sangeethbatman/sangeethbatman/assets/35595322/95ced404-feca-416d-b505-8a65a7824828)</div>
+
